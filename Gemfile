@@ -35,3 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 plugins:
   - jekyll-remote-theme
+
+gem "jekyll-remote-theme"
+
+remote_theme: niklasbuschmann/contrast@v2.11
